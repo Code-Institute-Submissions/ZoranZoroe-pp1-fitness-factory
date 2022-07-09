@@ -32,18 +32,18 @@ a {
 
 /* NAVIGATION BAR SETTINGS */
 .header {
-    background: #1b95e1;
-    color: #fff;
+    background: #fff;
     height: 75px;
 }
 
 .header .logo {
+    color: #e56c0a;
     font-size: 28px;
     font-weight: 900;
 }
 
 .header a {
-    color: #fff;
+    color: #000;
     font-size: 18px;
     font-weight: bold;
 }
@@ -62,7 +62,7 @@ a {
 }
 
 .header ul li {
-    margin-left: 35px;
+    margin-left: 25px;
 }
 
 .nav a:hover {
