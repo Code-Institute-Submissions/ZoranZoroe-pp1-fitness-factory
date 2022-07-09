@@ -127,7 +127,7 @@ nav a.active {
 
 .main-heading {
     margin-bottom: 25px;
-    background-color: Beige;
+    background-color: #fff;
     padding: 20px;
     opacity: 0.9;
     color: #e56c0a;
@@ -139,7 +139,7 @@ nav a.active {
 }
 
 .main-heading p {
-    font-size: 20px;
+    font-size: 25px;
     text-align: justify;
 }
 
@@ -151,20 +151,29 @@ nav a.active {
 }
 
 .card {
+    font-weight: 600;
+    background-color: #e56c0a;
+    border-radius: 3%;
     text-align: center;
     flex: 40%;
-    color: #000;
-    margin: 20px 10px;
+    color: #fff;
+    margin: 10px 10px;
     padding: 15px 20px;
+    line-height: 1.6;
 }
 
 .card p{
+    font-size: 20px;
     text-align: justify;
 }
-
+.card h2{
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
+}
 .card img{
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 200px;
+    max-height: 200px;
     border-radius: 50%;
     margin-bottom: 20px;
     padding: 5px;
@@ -188,9 +197,13 @@ nav a.active {
     margin: 20px 10px;
     padding: 15px 20px;
     background-color: #fff;
+    border-radius: 3%;
 }
 .footer-card span{
     font-weight: 700;
+  }
+  .footer-card p{
+    margin-top: 15px;
   }
 /*RESPONSIVE FOR SMALLER DEVICES */
 @media (max-width: 768px) {
