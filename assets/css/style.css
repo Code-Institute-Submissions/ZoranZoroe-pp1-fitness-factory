@@ -12,6 +12,14 @@ body {
     font-weight: 400;
 }
 
+h1,
+h2 {
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-bottom: 15px;
+}
+
 img {
     max-width: 100%;
 }
@@ -31,6 +39,8 @@ a {
 }
 
 /* NAVIGATION BAR SETTINGS */
+/* ------------------------*/
+
 .header {
     background: #fff;
     height: 75px;
@@ -71,4 +81,59 @@ a {
 
 nav a.active {
     color: #e56c0a;
+}
+
+/* MAIN IMAGE BELOW NAVIGATION BAR SETTINGS */
+/* ------------------------*/
+#main-section {
+    height: 600px;
+    width: 100%;
+}
+
+.main-section-image {
+    color: #e56c0a;
+    height: 100%;
+    width: 100%;
+    background: url('../images/fitness_factory_main.jpg') no-repeat center center;
+    /* APLYING MAIN IMAGE TRANSFORMATION*/
+    animation-name: opacity-up;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+}
+
+/* IMAGE TRANSFORMATION */
+@keyframes opacity-up {
+    from {
+        opacity: 0.3;
+    }
+
+    to {
+        opacity: 0.9;
+    }
+}
+
+.main-section-image .container {
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: start;
+}
+
+.main-heading {
+    margin-bottom: 25px;
+    background-color: Beige;
+    padding: 20px;
+    opacity: 0.9;
+    color: #e56c0a;
+    flex-basis: 50%;
+    align-items: center;
+}
+
+.main-heading h1 {
+    font-size: 35px;
+}
+
+.main-heading p {
+    font-size: 25px;
 }
