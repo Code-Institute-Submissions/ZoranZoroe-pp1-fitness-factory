@@ -102,7 +102,7 @@ nav a.active {
     background: url('../images/fitness_factory_main.jpg') no-repeat center center;
     /* APLYING MAIN IMAGE TRANSFORMATION*/
     animation-name: opacity-up;
-    animation-duration: 10s;
+    animation-duration: 3s;
     animation-fill-mode: forwards;
 }
 
@@ -113,7 +113,7 @@ nav a.active {
     }
 
     to {
-        opacity: 0.9;
+        opacity: 1;
     }
 }
 
@@ -127,25 +127,27 @@ nav a.active {
 
 .main-heading {
     margin-bottom: 25px;
-    background-color: #fff;
+    background-color: #e56c0a;
     padding: 20px;
-    opacity: 0.9;
-    color: #e56c0a;
     flex-basis: 60%;
+    border-radius: 3%;
 }
 
 .main-heading h1 {
+    color: #fff;
     font-size: 35px;
 }
 
 .main-heading p {
+    color: #fff;
     font-size: 25px;
     text-align: justify;
 }
 
 /* FITNESS EQUIPMENT */
 #fitness-equipment{
-    margin: 20px;
+    background-color: #e56c0a;
+    padding: 20px;
 }
 #fitness-equipment .container {
     display: flex;
@@ -155,11 +157,11 @@ nav a.active {
 
 .card {
     font-weight: 600;
-    background-color: #e56c0a;
+    background-color: #fff;
     border-radius: 3%;
     text-align: center;
     flex: 40%;
-    color: #fff;
+    color: #e56c0a;
     margin: 10px 10px;
     padding: 15px 20px;
     line-height: 1.6;
@@ -171,7 +173,7 @@ nav a.active {
 }
 .card h2{
     font-size: 35px;
-    color: #fff;
+    color: #e56c0a;
     text-align: center;
 }
 .card img{
@@ -185,7 +187,7 @@ nav a.active {
 
 /* FOOTER */
 #my-footer{
-    background-color:#e56c0a;
+    background-color:#fff;
 }
 #my-footer .container {
     display: flex;
@@ -196,16 +198,20 @@ nav a.active {
 .footer-card {
     flex: 1;
     text-align: justify;
-    color: #000;
+    color: #fff;
     margin: 20px 10px;
     padding: 15px 20px;
-    background-color: #fff;
+    background-color: #e56c0a;
     border-radius: 3%;
 }
 .footer-card span{
     font-weight: 700;
   }
   .footer-card p{
+    margin-top: 15px;
+  }
+  .footer-card h2{
+    color:#fff;
     margin-top: 15px;
   }
 /*RESPONSIVE FOR SMALLER DEVICES */
