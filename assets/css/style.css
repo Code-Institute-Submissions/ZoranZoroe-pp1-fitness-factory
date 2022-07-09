@@ -144,6 +144,9 @@ nav a.active {
 }
 
 /* FITNESS EQUIPMENT */
+#fitness-equipment{
+    margin: 20px;
+}
 #fitness-equipment .container {
     display: flex;
     flex-wrap: wrap;
@@ -207,6 +210,10 @@ nav a.active {
   }
 /*RESPONSIVE FOR SMALLER DEVICES */
 @media (max-width: 768px) {
+    .main-section-image .container {
+        align-items: center;
+        justify-content: center;
+    }
     #fitness-equipment .container {
       flex-direction: column;
       padding-top: 20px;
