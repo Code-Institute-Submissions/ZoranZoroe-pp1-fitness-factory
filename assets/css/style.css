@@ -170,3 +170,54 @@ nav a.active {
     padding: 5px;
     border: 2px solid #e56c0a;
 }
+
+/* FOOTER */
+#my-footer{
+    background-color:#e56c0a;
+}
+#my-footer .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer-card {
+    flex: 1;
+    text-align: justify;
+    color: #000;
+    margin: 20px 10px;
+    padding: 15px 20px;
+    background-color: #fff;
+}
+.footer-card span{
+    font-weight: 700;
+  }
+/*RESPONSIVE FOR SMALLER DEVICES */
+@media (max-width: 768px) {
+    #fitness-equipment .container {
+      flex-direction: column;
+      padding-top: 20px;
+      text-align: center;
+    }
+    .card{
+        flex:100%;
+    }
+    #my-footer .container{
+        flex-direction: column;
+    }
+    .footer-card{
+       
+    }
+  }
+  @media (max-width: 428px){
+    .header{
+        height: 150px;
+    }
+    .main-section-image .container{
+        align-items: end;
+        justify-content: center;
+    }
+    .footer-card{
+        flex: 100%;
+    }
+  }
