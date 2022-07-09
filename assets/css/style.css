@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Space+Mono&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+/* NAVIGATION BAR SETTINGS */
+.header {
+    background: #0a0f0c;
+    color: #fff;
+    height: 75px;
+}
+
+.header .logo {
+    font-size: 28px;
+    font-weight: 900;
+}
+
+.header a {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.header .container {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.header ul {
+    display: flex;
+    flex-flow: wrap;
+}
+
+.header ul li {
+    margin-left: 35px;
+}
+
+.nav a:hover {
+    color: #e56c0a;
+}
+
+nav a.active {
+    color: #e56c0a;
+}
