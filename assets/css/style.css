@@ -138,12 +138,12 @@ nav a.active {
 
 .main-heading h1 {
     color: #fff;
-    font-size: 35px;
+    font-size: 28x;
 }
 
 .main-heading p {
     color: #fff;
-    font-size: 25px;
+    font-size: 18px;
     text-align: justify;
 }
 
@@ -226,7 +226,6 @@ nav a.active {
     border-radius: 3%;
     text-align: center;
     flex: 40%;
-    color: #e56c0a;
     margin: 10px 10px;
     padding: 15px 20px;
     line-height: 1.6;
@@ -234,12 +233,13 @@ nav a.active {
 }
 
 .card p {
-    font-size: 20px;
+    font-size: 18px;
     text-align: justify;
+    color:#000;
 }
 
 .card h2 {
-    font-size: 35px;
+    font-size: 28px;
     color: #e56c0a;
     text-align: center;
 }
@@ -267,16 +267,56 @@ nav a.active {
 }
 
 .nutrition-left {
+    background-color: #fff;
+    padding: 10px;
+    flex: 30%;
+    margin-bottom: 20px;
+}
+.nutrition-left img{
+    background-color: #fff;
+    padding: 20px;
+}
+.nutrition-right {
+    background-color: #fff;
+    padding: 10px;
+    flex: 60%;
+    margin-bottom: 20px;
+    padding: 25px;
+}
+.nutrition-right p {
+    font-size: 18px;
+    text-align: justify;
+}
+/* PROGRAM INFORMATION */
+.program-info {
+    background-color: #e56c0a;
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+
+.program-info .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.program-one {
     background-color: #f1f1f1;
     padding: 10px;
     flex: 20%;
     margin-bottom: 20px;
 }
 
-.nutrition-right {
+.program-two {
     background-color: dodgerblue;
     padding: 10px;
-    flex: 80%;
+    flex: 20%;
+    margin-bottom: 20px;
+}
+.program-three {
+    background-color: #f1f1f1;
+    padding: 10px;
+    flex: 60%;
     margin-bottom: 20px;
 }
 
@@ -313,13 +353,15 @@ nav a.active {
 }
 
 .footer-card p {
-    margin-top: 15px;
+    margin-top: 25px;
+    font-size: 18px;
 }
 
 .footer-card h2 {
+    font-size: 28px;
     color: #fff;
     margin-top: 15px;
-    border-bottom: 2px solid #fff;
+    border-bottom: 3px solid #fff;
 }
 
 
