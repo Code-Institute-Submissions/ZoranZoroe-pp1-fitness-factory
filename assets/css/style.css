@@ -274,6 +274,7 @@ nav a.active {
     margin-bottom: 20px;
     text-align: center;
     align-items:center;
+    justify-content: center;
 }
 .nutrition-left img{
     background-color: #fff;
@@ -286,6 +287,8 @@ nav a.active {
     padding: 20px;
     flex: 70%;
     margin-bottom: 20px;
+    align-items:center;
+    justify-content: center;
 }
 .nutrition-right p {
     font-size: 18px;
