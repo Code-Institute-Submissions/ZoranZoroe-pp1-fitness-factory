@@ -253,6 +253,33 @@ nav a.active {
     border: 5px solid #e56c0a;
 }
 
+/* NUTRITION INFORMATION */
+.nutrition-info {
+    background-color: #e56c0a;
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+
+.nutrition-info .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.nutrition-left {
+    background-color: #f1f1f1;
+    padding: 10px;
+    flex: 20%;
+    margin-bottom: 20px;
+}
+
+.nutrition-right {
+    background-color: dodgerblue;
+    padding: 10px;
+    flex: 80%;
+    margin-bottom: 20px;
+}
+
 /* FOOTER */
 #my-footer {
     background-color: #fff;
