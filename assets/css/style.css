@@ -273,13 +273,13 @@ nav a.active {
     flex: 20%;
     margin-bottom: 20px;
     text-align: center;
+    align-items: center;
 }
 .nutrition-left img{
     background-color: #fff;
     padding: 20px;
     max-width: 250px;
     max-height: 250px;
-    
 }
 .nutrition-right {
     background-color: #fff;
