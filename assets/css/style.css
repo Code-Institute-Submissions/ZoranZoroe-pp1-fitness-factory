@@ -152,7 +152,7 @@ nav a.active {
     color: #e56c0a;
     height: 100%;
     width: 100%;
-    background: url('../images/nutrition-main.jpg') no-repeat center center;
+    background: url('../images/fitness_factory_main_nutrition.jpg') no-repeat center center;
 }
 
 .main-section-nutrition-image .container {
@@ -163,6 +163,21 @@ nav a.active {
     justify-content: end;
     }
 
+ /* MAIN SECTION IMAGE FOR PROGRAM */
+ .main-section-program-image {
+    color: #e56c0a;
+    height: 100%;
+    width: 100%;
+    background: url('../images/fitness_factory_main_program.jpg') no-repeat center center;
+}
+
+.main-section-program-image .container {
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    justify-content: end;
+    }
 /* FITNESS EQUIPMENT */
 #fitness-equipment{
     background-color: #e56c0a;
