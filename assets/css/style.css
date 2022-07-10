@@ -125,7 +125,7 @@ nav a.active {
     flex-wrap: wrap;
     align-items: end;
     justify-content: end;
-    }
+}
 
 .main-heading {
     margin-bottom: 25px;
@@ -153,6 +153,10 @@ nav a.active {
     height: 100%;
     width: 100%;
     background: url('../images/fitness_factory_main_nutrition.jpg') no-repeat center center;
+    /* APLYING MAIN IMAGE TRANSFORMATION*/
+    animation-name: opacity-up;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
 }
 
 .main-section-nutrition-image .container {
@@ -161,14 +165,18 @@ nav a.active {
     flex-wrap: wrap;
     align-items: end;
     justify-content: end;
-    }
+}
 
- /* MAIN SECTION IMAGE FOR PROGRAM */
- .main-section-program-image {
+/* MAIN SECTION IMAGE FOR PROGRAM */
+.main-section-program-image {
     color: #e56c0a;
     height: 100%;
     width: 100%;
     background: url('../images/fitness_factory_main_program.jpg') no-repeat center center;
+    /* APLYING MAIN IMAGE TRANSFORMATION*/
+    animation-name: opacity-up;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
 }
 
 .main-section-program-image .container {
@@ -177,7 +185,7 @@ nav a.active {
     flex-wrap: wrap;
     align-items: end;
     justify-content: end;
-    }
+}
 
 /* MAIN SECTION IMAGE FOR SING UP */
 .main-section-signup-image {
@@ -185,6 +193,10 @@ nav a.active {
     height: 100%;
     width: 100%;
     background: url('../images/fitness_factory_main_signup.jpg') no-repeat center center;
+    /* APLYING MAIN IMAGE TRANSFORMATION*/
+    animation-name: opacity-up;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
 }
 
 .main-section-signup-image .container {
@@ -193,13 +205,15 @@ nav a.active {
     flex-wrap: wrap;
     align-items: end;
     justify-content: end;
-    }
+}
+
 /* FITNESS EQUIPMENT */
-#fitness-equipment{
+#fitness-equipment {
     background-color: #e56c0a;
     padding: 20px;
     border-bottom: 2px solid black;
 }
+
 #fitness-equipment .container {
     display: flex;
     flex-wrap: wrap;
@@ -219,16 +233,18 @@ nav a.active {
     border: 2px solid black;
 }
 
-.card p{
+.card p {
     font-size: 20px;
     text-align: justify;
 }
-.card h2{
+
+.card h2 {
     font-size: 35px;
     color: #e56c0a;
     text-align: center;
 }
-.card img{
+
+.card img {
     max-width: 180px;
     max-height: 180px;
     border-radius: 50%;
@@ -238,15 +254,16 @@ nav a.active {
 }
 
 /* FOOTER */
-#my-footer{
-    background-color:#fff;
+#my-footer {
+    background-color: #fff;
 }
 
-#my-footer i{
-    font-size:36px;
+#my-footer i {
+    font-size: 36px;
     margin-right: 25px;
-    color:#fff
+    color: #fff
 }
+
 #my-footer .container {
     display: flex;
     flex-wrap: wrap;
@@ -263,49 +280,57 @@ nav a.active {
     border-radius: 3%;
     border: 2px solid black;
 }
-.footer-card span{
+
+.footer-card span {
     font-weight: 700;
-  }
-  .footer-card p{
+}
+
+.footer-card p {
     margin-top: 15px;
-  }
-  .footer-card h2{
-    color:#fff;
+}
+
+.footer-card h2 {
+    color: #fff;
     margin-top: 15px;
     border-bottom: 2px solid #fff;
-  }
+}
 
-  
+
 /*RESPONSIVE FOR SMALLER DEVICES */
 @media (max-width: 768px) {
     .main-section-image .container {
         align-items: center;
         justify-content: center;
     }
+
     #fitness-equipment .container {
-      flex-direction: column;
-      padding-top: 20px;
-      text-align: center;
+        flex-direction: column;
+        padding-top: 20px;
+        text-align: center;
     }
-    .card{
-        flex:100%;
+
+    .card {
+        flex: 100%;
     }
-    #my-footer .container{
+
+    #my-footer .container {
         flex-direction: column;
     }
-    .footer-card{
-       
-    }
-  }
-  @media (max-width: 428px){
-    .header{
+
+    .footer-card {}
+}
+
+@media (max-width: 428px) {
+    .header {
         height: 150px;
     }
-    .main-section-image .container{
+
+    .main-section-image .container {
         align-items: end;
         justify-content: center;
     }
-    .footer-card{
+
+    .footer-card {
         flex: 100%;
     }
-  }
+}
