@@ -178,6 +178,22 @@ nav a.active {
     align-items: end;
     justify-content: end;
     }
+
+/* MAIN SECTION IMAGE FOR SING UP */
+.main-section-signup-image {
+    color: #e56c0a;
+    height: 100%;
+    width: 100%;
+    background: url('../images/fitness_factory_main_signup.jpg') no-repeat center center;
+}
+
+.main-section-signup-image .container {
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    justify-content: end;
+    }
 /* FITNESS EQUIPMENT */
 #fitness-equipment{
     background-color: #e56c0a;
