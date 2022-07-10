@@ -269,11 +269,11 @@ nav a.active {
 
 .nutrition-left {
     background-color: #fff;
-    padding: 10px;
-    flex: 20%;
+    padding: 20px;
+    flex: 30%;
     margin-bottom: 20px;
     text-align: center;
-    align-items: center;
+    align-items:center;
 }
 .nutrition-left img{
     background-color: #fff;
@@ -284,7 +284,7 @@ nav a.active {
 .nutrition-right {
     background-color: #fff;
     padding: 20px;
-    flex: 60%;
+    flex: 70%;
     margin-bottom: 20px;
 }
 .nutrition-right p {
