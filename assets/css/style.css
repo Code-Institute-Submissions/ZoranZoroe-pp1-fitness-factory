@@ -91,7 +91,7 @@ nav a.active {
 
 /* MAIN IMAGE BELOW NAVIGATION BAR SETTINGS */
 /* ------------------------*/
-#main-section {
+.main-section {
     height: 600px;
     width: 100%;
     border-bottom: 2px solid black;
@@ -146,6 +146,22 @@ nav a.active {
     font-size: 25px;
     text-align: justify;
 }
+
+/* MAIN SECTION IMAGE FOR NUTRITION */
+.main-section-nutrition-image {
+    color: #e56c0a;
+    height: 100%;
+    width: 100%;
+    background: url('../images/nutrition-main.jpg') no-repeat center center;
+}
+
+.main-section-nutrition-image .container {
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    justify-content: end;
+    }
 
 /* FITNESS EQUIPMENT */
 #fitness-equipment{
@@ -227,6 +243,8 @@ nav a.active {
     margin-top: 15px;
     border-bottom: 2px solid #fff;
   }
+
+  
 /*RESPONSIVE FOR SMALLER DEVICES */
 @media (max-width: 768px) {
     .main-section-image .container {
