@@ -22,5 +22,17 @@ nutrition and sign up page with displayed results from our successful customers.
   customers that we are all they need to start they're jurney.
 
 * Fitness equipment
-  * This section will emphasise on different choices on how to get fit and build muscles, including machine training, barbells, dumbells and kettlebells.
-  * Each part of this section will provide users information on benefits of using different equipment
+  * This section will emphasize on different choices on how to get fit and build muscles, including machine training, barbells, dumbells and kettlebells.
+  * Each part of this section will provide users information on benefits of using different equipment.
+
+* Footer
+  * Footer section is split into three parts:
+    * Information on our gym with its location, working days and hours along with phone and email contact.
+    * Our online shop.
+    * Social links representing all main social sites, which will open in a new tab allowing users to return easy to our website.
+
+* Training programs
+  * Program section is divided into two parts:
+    * First is the main image with the banner displaying header text as an introduction for training programme page.
+    * Second is the information on our training programmes including text part which includes which exercises should be performed for each body part
+     and youtube videos on how to perform each exercise.
