@@ -12,3 +12,6 @@ equipment to allow users to choose how they want to get fit, a footer with compa
 nutrition and sign up page with displayed results from our successful customers.
 
 ### Existing features
+
+-Navigation bar
+ -Places at the top of all four pages.
