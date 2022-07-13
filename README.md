@@ -54,8 +54,14 @@ nutrition and sign up page with displayed results from our successful customers.
 
 ### Site goal
 
-### Desing choices
+The main goal of Fitness Factory website is to convice users that they can change their body with proper training and nutrition in as little as six
+months, providing information on training programme and nutrition required to do so. It's very important that the information and navigation is well 
+organized so that users can get all the information they need to convince them to sign up and join us. Coding part should be done well so that new 
+administrators can add or change programmes and nutrition part when new science discoveries are made in fitness industry.
 
+### Desing choices
+In the landing page we want to inform customers about our gym and all the features it provides. Our navigation bar should give basic idea to the users
+what they need to achieve their dream body goal.
 ### User stories
 
 #### As a new or existion customer
@@ -63,7 +69,9 @@ nutrition and sign up page with displayed results from our successful customers.
 #### As a website administrator
 
 ## Testing
-
+In Testing section we want to test both the technical and the content part. Our website should run flawlesly without any bugs and when users sign up and
+provide us with the information, our trainers should get that without any problems so they can create individual training and nutrition plan. Content part 
+must give users enough information they know we well educated and experienced and that we can help them achieve their goals.
 ### Manual testing
 
 ### User stories testing
