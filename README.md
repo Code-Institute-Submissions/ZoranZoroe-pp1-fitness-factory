@@ -36,3 +36,7 @@ nutrition and sign up page with displayed results from our successful customers.
     * First is the main image with the banner displaying header text as an introduction for training programme page.
     * Second is the information on our training programmes including text part including which exercises should be performed for each body part
      and youtube videos on how to perform each exercise.
+    
+* Nutrition:
+  * Nutrition section is divided into main banner image holding header text emphasising the importance of proper nutrition in order to build muscles
+  and images with text describing what are the benefits of using them.
