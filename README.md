@@ -47,3 +47,29 @@ nutrition and sign up page with displayed results from our successful customers.
     them before and after their fitness journey.
     * Second part is a sign up form where customers can add their information and choose which fitness equipment will suit them best, allowing our
     educated trainer to make specific training programmed for them.
+
+### Features left to implement
+
+## UX/UI Section
+
+### Site goal
+
+### Desing choices
+
+### User stories
+
+#### As a new or existion customer
+
+#### As a website administrator
+
+## Testing
+
+### Manual testing
+
+### User stories testing
+
+### Validator testing
+
+## Deployement
+
+## Credits
