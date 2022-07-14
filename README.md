@@ -23,7 +23,7 @@ nutrition and sign up page with displayed results from our successful customers.
   customers that we are all they need to start they're jurney.
 ![Main image](documentation/main_image.jpg)
 * Fitness equipment
-  * This section will emphasize on different choices on how to get fit and build muscles, including machine training, barbells, dumbells and kettlebells.
+  * This section will emphasize on different choices on how to get fit and build muscles, including calisthenics, barbells, dumbells and kettlebells.
   * Each part of this section will provide users information on benefits of using different equipment.
 ![Fitness equipment](documentation/fitness_equipment.jpg)
 * Footer
@@ -33,7 +33,7 @@ nutrition and sign up page with displayed results from our successful customers.
     * Social links representing all main social sites, which will open in a new tab allowing users to return easy to our website.
 ![Footer](documentation/footer.jpg)
 * Training programs
-  * Trainign program page is divided into two parts:
+  * Training program page is divided into two parts:
     * First is the main image with the banner displaying header text as an introduction for training programme page.
     * Second is the information on our training programmes including text part including which exercises should be performed for each body part
      and youtube videos on how to perform each exercise.
@@ -60,7 +60,7 @@ months, providing information on training programme and nutrition required to do
 organized so that users can get all the information they need to convince them to sign up and join us. Coding part should be done well so that new 
 administrators can add or change programmes and nutrition part when new science discoveries are made in fitness industry.
 
-### Desing choices
+### Design choices
 In the landing page we want to inform customers about our gym and all the features it provides. Our navigation bar should give basic idea to the users
 what they need to achieve their dream body goal.
 ### User stories
