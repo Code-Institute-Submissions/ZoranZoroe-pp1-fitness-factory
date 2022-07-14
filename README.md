@@ -82,6 +82,15 @@ must give users enough information so they know we well educated and experienced
 ## Deployement
 
 ## Credits
+### Content
+Instructions how to build flexbox models used on this website was taken from these websites / youtube channels :
+* [w3schools](https://www.w3schools.com/)
+* [Kevin Powell](https://www.youtube.com/kepowob)
+* [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+* [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
+
+### Media
+
 * W3Schools
 * Webdev simplified
 * Traversity media
