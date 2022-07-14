@@ -95,4 +95,8 @@ must give users enough information so they know we well educated and experienced
 * Text used in nutrition page was taken from [Gravity Transformation](https://www.youtube.com/user/GravityTrainingSol/)
 ### Media
 * Main image on landing page [Fitness Factory Charlotte](https://www.fitnessfactorycharlotte.com/)
+* Images for nutrition page were taken from:
+  * Zinc [Cafe press](https://www.cafepress.com/+periodic-table-zinc+square-stickers)
+  * Cholesterol [Deposit photos](https://depositphotos.com/)
+
 * Video clips for training programme page were taken from [ATHLEAN-X](https://www.youtube.com/c/athleanx/)
