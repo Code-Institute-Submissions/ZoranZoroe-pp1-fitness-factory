@@ -91,12 +91,8 @@ must give users enough information so they know we well educated and experienced
 
 * Social icons used in footer were taken from  [Font Awesome](https://fontawesome.com/)
 * Icons used in fitness equipment section were taken from [Flat icon](https://www.flaticon.com/)
-* 
+* Text used in fitness equipment was taken from [Joe Rogan Experience](https://www.youtube.com/c/joerogan/)
+* Text used in nutrition page was taken from [Gravity Transformation](https://www.youtube.com/user/GravityTrainingSol/)
 ### Media
 * Main image on landing page [Fitness Factory Charlotte](https://www.fitnessfactorycharlotte.com/)
-* Gravity transformation
-* Atheleanx
-
-### Content
-
-### Media
+* Video clips for training programme page were taken from [ATHLEAN-X](https://www.youtube.com/c/athleanx/)
