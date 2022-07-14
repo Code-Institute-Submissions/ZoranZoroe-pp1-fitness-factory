@@ -83,17 +83,17 @@ must give users enough information so they know we well educated and experienced
 
 ## Credits
 ### Content
-Instructions how to build flexbox models used on this website was taken from these websites / youtube channels :
-* [w3schools](https://www.w3schools.com/)
-* [Kevin Powell](https://www.youtube.com/kepowob)
-* [Traversy Media](https://www.youtube.com/c/TraversyMedia)
-* [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
+* Instructions how to build flexbox models used on this website was taken from these websites / youtube channels :
+  * [w3schools](https://www.w3schools.com/)
+  * [Kevin Powell](https://www.youtube.com/kepowob)
+  * [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+  * [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
 
+* Social icons used in footer were taken from  [Font Awesome](https://fontawesome.com/)
+* Icons used in fitness equipment section were taken from [Flat icon](https://www.flaticon.com/)
+* 
 ### Media
-
-* W3Schools
-* Webdev simplified
-* Traversity media
+* Main image on landing page [Fitness Factory Charlotte](https://www.fitnessfactorycharlotte.com/)
 * Gravity transformation
 * Atheleanx
 
