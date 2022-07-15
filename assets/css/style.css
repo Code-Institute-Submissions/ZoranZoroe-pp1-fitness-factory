@@ -234,7 +234,7 @@ nav a.active {
 .card p {
     font-size: 18px;
     text-align: justify;
-    color:#000;
+    color: #000;
 }
 
 .card h2 {
@@ -263,7 +263,7 @@ nav a.active {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    vertical-align:middle;
+    vertical-align: middle;
 }
 
 .nutrition-left {
@@ -272,27 +272,31 @@ nav a.active {
     flex: 30%;
     margin-bottom: 20px;
     text-align: center;
-    align-items:center;
+    align-items: center;
     justify-content: center;
 }
-.nutrition-left img{
+
+.nutrition-left img {
     background-color: #fff;
     padding: 20px;
     max-width: 250px;
     max-height: 250px;
 }
+
 .nutrition-right {
     background-color: #fff;
     padding: 20px;
     flex: 70%;
     margin-bottom: 20px;
-    align-items:center;
+    align-items: center;
     justify-content: center;
 }
+
 .nutrition-right p {
     font-size: 18px;
     text-align: justify;
 }
+
 /* PROGRAM INFORMATION */
 .program-info {
     background-color: #e56c0a;
@@ -319,6 +323,7 @@ nav a.active {
     flex: 20%;
     margin-bottom: 20px;
 }
+
 .program-three {
     background-color: #f1f1f1;
     padding: 10px;
@@ -370,6 +375,78 @@ nav a.active {
     border-bottom: 3px solid #fff;
 }
 
+/*SIGN UP */
+.sign-card {
+    font-weight: 600;
+    background-color: #fff;
+    border-radius: 3%;
+    text-align: left;
+    flex: 40%;
+    margin: 10px 10px;
+    padding: 15px 20px;
+    line-height: 1.6;
+    border: 2px solid black;
+    font-size: 18px;
+}
+
+.sign-card p {
+    font-size: 18px;
+    text-align: justify;
+    color: #000;
+}
+
+.sign-card h2 {
+    font-size: 28px;
+    color: #e56c0a;
+    text-align: center;
+}
+
+.sign-card img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 25px;
+    border: 5px solid #e56c0a;
+}
+
+input[type=text],
+select,
+[type=date],
+[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #e56c0a;
+    box-sizing: border-box;
+}
+
+input[type=radio] {
+    display: inline-block;
+}
+
+input[type=submit],
+[type=reset] {
+    width: 30%;
+    background-color: #e56c0a;
+    color: #fff;
+    font-weight: bold;
+    padding: 14px 20px;
+    margin: 15px 0px;
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+input[type=submit]:hover,
+[type=reset]:hover {
+    background-color: #fff;
+    color: #e56c0a;
+    border: 1px solid #e56c0a;
+}
 
 /*RESPONSIVE FOR SMALLER DEVICES */
 @media (max-width: 768px) {
