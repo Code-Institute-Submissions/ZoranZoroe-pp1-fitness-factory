@@ -395,10 +395,11 @@ nav a.active {
     color: #000;
 }
 
-.sign-card h2 {
+.sign-card h3 {
     font-size: 28px;
     color: #e56c0a;
     text-align: center;
+    text-transform: capitalize;
 }
 
 .sign-card img {
