@@ -516,7 +516,9 @@ input[type=submit]:hover,
         flex-direction: column;
     }
 
-    .footer-card {}
+    .footer-card {
+        text-align: left;
+    }
 }
 
 @media (max-width: 428px) {
