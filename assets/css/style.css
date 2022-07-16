@@ -298,38 +298,7 @@ nav a.active {
 }
 
 /* PROGRAM INFORMATION */
-.program-info {
-    background-color: #e56c0a;
-    padding: 20px;
-    border-bottom: 2px solid black;
-}
 
-.program-info .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-.program-one {
-    background-color: #f1f1f1;
-    padding: 10px;
-    flex: 20%;
-    margin-bottom: 20px;
-}
-
-.program-two {
-    background-color: dodgerblue;
-    padding: 10px;
-    flex: 20%;
-    margin-bottom: 20px;
-}
-
-.program-three {
-    background-color: #f1f1f1;
-    padding: 10px;
-    flex: 60%;
-    margin-bottom: 20px;
-}
 
 /* FOOTER */
 #my-footer {
@@ -376,6 +345,51 @@ nav a.active {
 }
 
 /*SIGN UP */
+.program-info {
+    background-color: #e56c0a;
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+
+.program-info .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.program-one {
+    background-color: #f1f1f1;
+    padding: 10px;
+    flex: 20%;
+    margin-bottom: 20px;
+}
+
+.program-two {
+    background-color: dodgerblue;
+    padding: 10px;
+    flex: 20%;
+    margin-bottom: 20px;
+}
+
+.program-three {
+    background-color: #f1f1f1;
+    padding: 10px;
+    flex: 60%;
+    margin-bottom: 20px;
+}
+
+#signup-form {
+    background-color: #e56c0a;
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+
+#signup-form .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
 .sign-card {
     font-weight: 600;
     background-color: #fff;
@@ -406,7 +420,7 @@ nav a.active {
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    
+
     margin-bottom: 20px;
     text-align: center;
     padding: 25px;
@@ -460,6 +474,38 @@ input[type=submit]:hover,
         flex-direction: column;
         padding-top: 20px;
         text-align: center;
+    }
+
+    .program-one {
+        flex: 100%;
+        text-align: center;
+    }
+
+    .program-one img {
+        width: 100%;
+    }
+
+    .program-two img {
+        width: 100%;
+    }
+
+    .program-two {
+        flex: 100%;
+        text-align: center;
+    }
+
+    .program-three {
+        flex: 100%;
+    }
+
+    #signup-form .container {
+        flex-direction: column;
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .sign-card {
+        flex: 100%;
     }
 
     .card {
