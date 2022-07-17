@@ -151,7 +151,7 @@ nav a.active {
     color: #e56c0a;
     height: 100%;
     width: 100%;
-    background: url('../images/fitness_factory_main_nutrition.jpg') no-repeat center center;
+    background: url('../images/fitness_factory_main_nutrition.webp') no-repeat center center;
     /* APLYING MAIN IMAGE TRANSFORMATION*/
     animation-name: opacity-up;
     animation-duration: 3s;
