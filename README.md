@@ -89,7 +89,10 @@ In Testing section we want to test both the technical and the content part. Our 
 provide us with the information, our trainers should get that without any problems so they can create individual training and nutrition plan. Content part 
 must give users enough information so they know we well educated and experienced and that we can help them achieve their goals.
 ### Manual testing
-
+| First Header  | Second Header |  Second Header |  Second Header |
+| ------------- | ------------- |  ------------- |  ------------- |
+| Content Cell  | Content Cell  |  Second Header |  Second Header |
+| Content Cell  | Content Cell  |  Second Header |  Second Header |
 ### User stories testing
 
 ### Validator testing
