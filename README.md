@@ -32,25 +32,30 @@ nutrition and sign up page with displayed results from our successful customers.
     * Our online shop.
     * Social links representing all main social sites, which will open in a new tab allowing users to return easy to our website.
 ![Footer](documentation/footer.jpg)
+
+* Nutrition:
+  * Nutrition page is divided into main banner image holding header text emphasising the importance of proper nutrition in order to build muscles
+  and images with text describing what are the benefits of using them.
+![nutrition_main](documentation/nutrition.jpg)
+![nutrition_vitamins](documentation/nutrition_vitamins.jpg)
+* Sign up:
+  * Sign up page consists of two parts:
+    * First part is displaying users successful stories of our customers who achieved body transformation they desired, along with images of
+    them before and after their fitness journey.
+
+    ![sign_results](documentation/sign_results.jpg)
+    * Second part is a sign up form where customers can add their information and choose which fitness equipment will suit them best, allowing our
+    educated trainer to make specific training programmed for them.
+
+    ![sign_form](documentation/sign_form.jpg)
+
+### Features left to implement
 * Training programs
   * Training program page is divided into two parts:
     * First is the main image with the banner displaying header text as an introduction for training programme page.
     * Second is the information on our training programmes including text part including which exercises should be performed for each body part
      and youtube videos on how to perform each exercise.
     
-* Nutrition:
-  * Nutrition page is divided into main banner image holding header text emphasising the importance of proper nutrition in order to build muscles
-  and images with text describing what are the benefits of using them.
-
-* Sign up:
-  * Sign up page consists of two parts:
-    * First part is displaying users successful stories of our customers who achieved body transformation they desired, along with images of
-    them before and after their fitness journey.
-    * Second part is a sign up form where customers can add their information and choose which fitness equipment will suit them best, allowing our
-    educated trainer to make specific training programmed for them.
-
-### Features left to implement
-
 ## UX/UI Section
 
 ### Site goal
