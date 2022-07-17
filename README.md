@@ -71,8 +71,18 @@ what they need to achieve their dream body goal.
 ### User stories
 
 #### As a new or existion customer
+* I want to build muscles
+* I want to lose weight
+* I want to complete the form to get personalized training
+* I want to be informed on fitness industry standards
+* I want to know what I haven't done so far in my fitness journey
 
 #### As a website administrator
+* I want to provide users with information on building muscles
+* I want to provide users with information on losing weight
+* I want to users to see that we are well informed website
+* I want users to sign up on our form
+* I want to edit/add new nutrition data upon scientific research published
 
 ## Testing
 In Testing section we want to test both the technical and the content part. Our website should run flawlessly without any bugs and when users sign up and
