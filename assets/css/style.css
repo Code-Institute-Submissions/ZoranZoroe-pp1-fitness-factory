@@ -171,7 +171,7 @@ nav a.active {
     color: #e56c0a;
     height: 100%;
     width: 100%;
-    background: url('../images/fitness_factory_main_program.jpg') no-repeat center center;
+    background: url('../images/fitness_factory_main.webp') no-repeat center center;
     /* APLYING MAIN IMAGE TRANSFORMATION*/
     animation-name: opacity-up;
     animation-duration: 3s;
@@ -298,52 +298,6 @@ nav a.active {
 }
 
 /* PROGRAM INFORMATION */
-
-
-/* FOOTER */
-#my-footer {
-    background-color: #fff;
-}
-
-#my-footer i {
-    font-size: 36px;
-    margin-right: 25px;
-    color: #fff
-}
-
-#my-footer .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-.footer-card {
-    flex: 1;
-    text-align: justify;
-    color: #fff;
-    margin: 20px 10px;
-    padding: 15px 20px;
-    background-color: #e56c0a;
-    border-radius: 3%;
-    border: 2px solid black;
-}
-
-.footer-card span {
-    font-weight: 700;
-}
-
-.footer-card p {
-    margin-top: 25px;
-    font-size: 18px;
-}
-
-.footer-card h2 {
-    font-size: 28px;
-    color: #fff;
-    margin-top: 15px;
-    border-bottom: 3px solid #fff;
-}
-
 /*SIGN UP */
 .program-info {
     background-color: #e56c0a;
@@ -426,7 +380,11 @@ nav a.active {
     padding: 25px;
     border: 5px solid #e56c0a;
 }
-
+.signup_form_main_image{
+    width:100%!important;
+    height:80%!important;
+    border-radius: 1%!important;
+}
 input[type=text],
 select,
 [type=date],
@@ -462,6 +420,52 @@ input[type=submit]:hover,
     color: #e56c0a;
     border: 1px solid #e56c0a;
 }
+
+
+/* FOOTER */
+#my-footer {
+    background-color: #fff;
+}
+
+#my-footer i {
+    font-size: 36px;
+    margin-right: 25px;
+    color: #fff
+}
+
+#my-footer .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer-card {
+    flex: 1;
+    text-align: justify;
+    color: #fff;
+    margin: 20px 10px;
+    padding: 15px 20px;
+    background-color: #e56c0a;
+    border-radius: 3%;
+    border: 2px solid black;
+}
+
+.footer-card span {
+    font-weight: 700;
+}
+
+.footer-card p {
+    margin-top: 25px;
+    font-size: 18px;
+}
+
+.footer-card h2 {
+    font-size: 28px;
+    color: #fff;
+    margin-top: 15px;
+    border-bottom: 3px solid #fff;
+}
+
 
 /*RESPONSIVE FOR SMALLER DEVICES */
 @media (max-width: 768px) {

@@ -89,16 +89,16 @@ In Testing section we want to test both the technical and the content part. Our 
 provide us with the information, our trainers should get that without any problems so they can create individual training and nutrition plan. Content part 
 must give users enough information so they know we well educated and experienced and that we can help them achieve their goals.
 ### Manual testing
-| First Header  | Second Header |  Second Header |  Second Header |
-| ------------- | ------------- |  ------------- |  ------------- |
-| Content Cell  | Content Cell  |  Second Header |  Second Header |
-| Content Cell  | Content Cell  |  Second Header |  Second Header |
+All links were tested and are working properly.
+
 ### User stories testing
-
+Some user stories were tested, but website needs programme page to be done.
 ### Validator testing
+Html was tested and no errors were returned when passing through the [w3schools validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fzoranzoroe.github.io%2Fpp1-fitness-factory%2Findex.html)
 
+CSS was tested and no errors were returned when passing through the [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fzoranzoroe.github.io%2Fpp1-fitness-factory%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 ## Deployement
-
+Website was deployed at github on link [Fitness Factory](https://zoranzoroe.github.io/pp1-fitness-factory/index.html)
 ## Credits
 ### Content
 * Instructions how to build flexbox models used on this website was taken from these websites / youtube channels :
