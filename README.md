@@ -101,7 +101,7 @@ CSS was tested and no errors were returned when passing through the [Jigsaw vali
 Website was deployed at github on link [Fitness Factory](https://zoranzoroe.github.io/pp1-fitness-factory/index.html)
 ## Credits
 ### Content
-* Instructions how to build flexbox models used on this website was taken from these websites / youtube channels :
+* Instructions how to build flexbox models and forms used on this website was taken from these websites / youtube channels :
   * [w3schools](https://www.w3schools.com/)
   * [Kevin Powell](https://www.youtube.com/kepowob)
   * [Traversy Media](https://www.youtube.com/c/TraversyMedia)
