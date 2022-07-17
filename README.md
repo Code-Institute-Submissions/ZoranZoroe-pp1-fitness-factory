@@ -113,8 +113,8 @@ Website was deployed at github on link [Fitness Factory](https://zoranzoroe.gith
 * Text used in nutrition page was taken from [Gravity Transformation](https://www.youtube.com/user/GravityTrainingSol/)
 ### Media
 * Main image on landing page [Fitness Factory Charlotte](https://www.fitnessfactorycharlotte.com/)
-* Images for nutrition page were taken from:
-  * Zinc [Cafe press](https://www.cafepress.com/+periodic-table-zinc+square-stickers)
-  * Cholesterol [Deposit photos](https://depositphotos.com/)
+* Images for nutrition page were taken from: [Cafe press](https://www.cafepress.com/+periodic-table-zinc+square-stickers) ,
+  [Deposit photos](https://depositphotos.com/)
+* Images for sign up page were taken from: [Wallpapercave](https://wallpapercave.com/), [everythingfinanceblog](https://everythingfinanceblog.com/23279/gym-membership.html*)
 
-* Video clips for training programme page were taken from [ATHLEAN-X](https://www.youtube.com/c/athleanx/)
+* Video clips for training programme page were taken from [ATHLEAN-X](https://www.youtube.com/c/athleanx/) but will be implemented in future.
