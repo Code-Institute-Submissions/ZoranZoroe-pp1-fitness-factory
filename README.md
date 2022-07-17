@@ -109,12 +109,14 @@ Website was deployed at github on link [Fitness Factory](https://zoranzoroe.gith
 
 * Social icons used in footer were taken from  [Font Awesome](https://fontawesome.com/)
 * Icons used in fitness equipment section were taken from [Flat icon](https://www.flaticon.com/)
+* Text used in fitness equipment section were taken from [healthyliving](https://healthyliving.azcentral.com/benefits-barbells-5223.html),
+[webmd.com](https://www.webmd.com/fitness-exercise/what-to-know-about-dumbbells)
 * Text used in fitness equipment was taken from [Joe Rogan Experience](https://www.youtube.com/c/joerogan/)
 * Text used in nutrition page was taken from [Gravity Transformation](https://www.youtube.com/user/GravityTrainingSol/)
 ### Media
 * Main image on landing page [Fitness Factory Charlotte](https://www.fitnessfactorycharlotte.com/)
 * Images for nutrition page were taken from: [Cafe press](https://www.cafepress.com/+periodic-table-zinc+square-stickers) ,
-  [Deposit photos](https://depositphotos.com/)
+  [Deposit photos](https://depositphotos.com/),[wallsauces](https://www.wallsauce.com/)
 * Images for sign up page were taken from: [Wallpapercave](https://wallpapercave.com/), [everythingfinanceblog](https://everythingfinanceblog.com/23279/gym-membership.html*)
 
 * Video clips for training programme page were taken from [ATHLEAN-X](https://www.youtube.com/c/athleanx/) but will be implemented in future.
